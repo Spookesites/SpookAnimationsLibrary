@@ -21,7 +21,7 @@ Or you can download the script from GitHub and include it in your HTML file:
 ## Funciones
 A continuación se describen las diferentes funciones que incluye la librería:
 
-`scrollAnimation(element, animationClass)`
+# `scrollAnimation(element, animationClass)`
 
 Agrega una clase de animación a un elemento cuando se encuentra visible en la ventana del navegador durante un desplazamiento.
 
