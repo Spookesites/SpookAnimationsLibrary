@@ -2,7 +2,7 @@
 
 Spook Animations Library is a lightweight JavaScript library for adding animations to your website.
 
-## Instalación
+## Installation
 
 You can download the library directly from GitHub or clone the repository using Git:
 
