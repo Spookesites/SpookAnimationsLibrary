@@ -34,6 +34,21 @@ const element = document.querySelector('.my-element');
 scrollAnimation(element, 'animate');
 ```
 
+In your HTML file, add a CSS class that defines the animation you want to add:
+```css
+.animate {
+  opacity: 0;
+  transform: translateY(100px);
+  transition: all 0.5s ease-in-out;
+}
+.animate.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+```
+
+
 ## Credits
 
 Animations.js was created by [Spook](https://your-website.com). 
