@@ -4,10 +4,11 @@ Spook Animations Library is a lightweight JavaScript library for adding animatio
 
 ## Instalación
 
-You can install Animations.js via npm:
+You can download the library directly from GitHub or clone the repository using Git:
+
 
 ```sh
-npm install animations-js
+git clone https://github.com/TU_USUARIO/animations-js.git
 ```
 Or you can download the script from GitHub and include it in your HTML file:
 ```html
