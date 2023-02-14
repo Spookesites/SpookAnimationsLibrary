@@ -17,3 +17,15 @@ Or you can download the script from GitHub and include it in your HTML file:
 ```html
 <link rel="stylesheet" href="ruta/a/animations.css">
 ```
+## Credits
+
+Animations.js was created by [Your Name](https://your-website.com). 
+
+## Acknowledgments
+
+- Thanks to [Name of person or organization](https://website.com) for providing inspiration and guidance during the creation of this library.
+
+## Version History
+
+- 1.0.0 (YYYY-MM-DD): Initial release.
+
