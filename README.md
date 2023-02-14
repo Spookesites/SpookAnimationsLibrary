@@ -18,6 +18,17 @@ Or you can download the script from GitHub and include it in your HTML file:
 ```html
 <link rel="stylesheet" href="ruta/a/animations.css">
 ```
+## Funciones
+A continuación se describen las diferentes funciones que incluye la librería:
+
+`scrollAnimation(element, animationClass)`
+
+Agrega una clase de animación a un elemento cuando se encuentra visible en la ventana del navegador durante un desplazamiento.
+
+- element: el elemento HTML al que se agregará la clase de animación.
+- animationClass: la clase CSS que define la animación.
+
+
 ## Credits
 
 Animations.js was created by [Spook](https://your-website.com). 
