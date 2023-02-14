@@ -109,7 +109,7 @@ Here's an example of how to use the `hoverAnimation` function:
 const box = document.querySelector('.box');
 hoverAnimation(box, 'hover');
 ```
-
+In the above example, when the user hovers over the box element, the hover CSS class will be added to the element, which will change its background color from blue to red.
 
 ## Credits
 
