@@ -47,7 +47,11 @@ In your HTML file, add a CSS class that defines the animation you want to add:
 }
 
 ```
-
+Then, in your JavaScript file, use the scrollAnimation function to add the animation class when the element becomes visible:
+```javascript
+const element = document.querySelector('.my-element');
+scrollAnimation(element, 'animate');
+```
 
 ## Credits
 
