@@ -6,6 +6,7 @@ Animations.js es una librería JavaScript que te permite agregar animaciones y e
 
 Puedes instalar Animations.js utilizando npm:
 ```sh
+npm install animations-js
 ```
 
 
