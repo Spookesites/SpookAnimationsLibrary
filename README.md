@@ -30,7 +30,7 @@ Adds an animation class to an element when it is visible in the browser window d
 
 Example: 
 ```javascript
-const element = document.querySelector('.mi-elemento');
+const element = document.querySelector('.my-element');
 scrollAnimation(element, 'animate');
 ```
 
