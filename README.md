@@ -44,5 +44,5 @@ Animations.js was created by [Spook](https://your-website.com).
 
 ## Version History
 
-- 1.0.0 (YYYY-MM-DD): Initial release.
+- 1.0.0 (2023-02-14): Initial release.
 
