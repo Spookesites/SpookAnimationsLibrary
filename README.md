@@ -24,7 +24,7 @@ Animations.js was created by [Spook](https://your-website.com).
 
 ## Acknowledgments
 
-- Thanks to [My Friends]([https://website.com](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)) for providing inspiration and guidance during the creation of this library.
+- Thanks to [My Friends](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) for providing inspiration and guidance during the creation of this library.
 
 ## Version History
 
