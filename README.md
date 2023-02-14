@@ -1,17 +1,19 @@
-# Animations.js
+# Spook Animations Library
 
-Animations.js es una librería JavaScript que te permite agregar animaciones y efectos a elementos en tu sitio web de manera sencilla.
+Spook Animations Library is a lightweight JavaScript library for adding animations to your website.
 
 ## Instalación
 
-Puedes instalar Animations.js utilizando npm:
+You can install Animations.js via npm:
+
 ```sh
 npm install animations-js
 ```
-
-
-También puedes descargar el archivo `animations.js` directamente y agregarlo a tu sitio web:
-
+Or you can download the script from GitHub and include it in your HTML file:
 ```html
 <script src="ruta/a/animations.js"></script>
+```
+*`Also, make sure to include the CSS file that defines the animations and effects:`*
+```html
+<link rel="stylesheet" href="ruta/a/animations.css">
 ```
