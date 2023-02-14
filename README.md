@@ -80,6 +80,35 @@ Then, in your JavaScript file, use the loadAnimation function to add the animati
 const element = document.querySelector('.my-element');
 loadAnimation(element, 'animate');
 ```
+# `function hoverAnimation(element, animationClass)`
+To use the hoverAnimation function, you need to pass two arguments:
+- `element`: This is the HTML element you want to add the animation to. You can select the element using document.querySelector or any other method that returns an HTML element.
+- `animationClass`: This is the CSS class that defines the animation you want to apply on the element.
+
+Here's an example of how to use the `hoverAnimation` function:
+```html
+<!-- HTML code -->
+<div class="box">Hover over me</div>
+```
+```css
+/* CSS code */
+.box {
+  background-color: blue;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  transition: background-color 0.5s ease;
+}
+
+.box.hover {
+  background-color: red;
+}
+```
+```javascript
+// JavaScript code
+const box = document.querySelector('.box');
+hoverAnimation(box, 'hover');
+```
 
 
 ## Credits
